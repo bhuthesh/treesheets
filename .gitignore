@@ -1,5 +1,9 @@
-/treesheets/Release/
-/treesheets/Debug/
+TS/treesheets
+osx/TreeSheets/.DS_Store
+osx/TreeSheets/TreeSheets.xcodeproj/project.xcworkspace/xcuserdata/br.xcuserdatad/
+osx/TreeSheets/TreeSheets.xcodeproj/xcuserdata/br.xcuserdatad/
+osx/TreeSheets/build/
+
 /wxwidgets294/
 *.exe
 *.zip
